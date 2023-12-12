@@ -1,0 +1,7 @@
+{
+  "name": "Innherredsbyen",
+  "dataColors": ["#0f34c3","#6d38b3","#9a3da4","#be4493","#78e6bc","#27b682","#007749","#003c16"],
+  "background": "#FFFFFF",
+  "foreground": "#0f34c3",
+  "tableAccent": "#0f34c3"
+}
