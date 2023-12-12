@@ -1,0 +1,51 @@
+{
+  "name": "TRFK",
+  "background": "#e1e6ea",
+  "foreground": "#ffffff",
+  "tableAccent": "#000000",
+  "dataColors": [ "#018a92", "#e35205", "#ffdd00", "#cdc9af", "#004052", "#67b9be", "#ee9769", "#ffeb66", "#e1dfcf", "#668c97"],
+  "maximum": "#018a92",
+  "center": "#ffdd00",
+  "minimum": "#e35205",
+  "null": "#eff1f4",
+  "textClasses": {
+    "callout": {
+      "fontSize": 19,
+      "fontFace": "Verdana",
+      "color": "#000000"
+    },
+    "title": {
+      "fontSize": 22,
+      "fontFace": "Verdana Light",
+      "color": "#000000"
+    },
+    "largeTitle": {
+      "fontSize": 22,
+      "fontFace": "Verdana",
+      "color": "#000000"
+    },
+    "header": {
+      "fontSize": 13,
+      "fontFace": "Verdana",
+      "color": "#000000"
+    },
+    "label": {
+      "fontSize": 19,
+      "fontFace": "Verdana",
+      "color": "#000000"
+    },
+    "lightLabel": {
+      "color": "#000000",
+      "fontFace": "Verdana",
+      "fontSize": 16
+    },
+    "largeLightLabel": {
+      "color": "#000000"
+    },
+    "smallLightLabel": {
+      "fontSize" : 19,
+      "fontFace": "Verdana Light",
+      "color": "#000000"
+    }
+  }
+}
